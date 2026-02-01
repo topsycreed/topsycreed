@@ -68,6 +68,12 @@ Creating **tutorials, workshops, and master-classes for Automation QA**
 ### 🧪 Testing Frameworks & Tooling
 - 🧬 **[JUnit 5 + Gradle Example](https://github.com/topsycreed/junit-gradle)** — basic JUnit 5 project setup with Gradle
 - 🧪 **[TestNG + Maven Example](https://github.com/topsycreed/testng-maven)** — example TestNG project with Maven
+- 🧩 **[JUnit5 + Extensions + Pioneer](https://github.com/topsycreed/unitTestsExample)** — example JUnit5 project with extensions, pioneer
+- 🥒 **[BDD Cucumber Examples](https://github.com/topsycreed/selenideTests)** — example BDD Cucumber/Selenide/REST assured project
+
+### 🧠 Interview Coding Tasks
+- 🧮 **[Java Fraction number](https://github.com/topsycreed/codingTaskJava)** - fraction number
+- 🚚 **[Java Delivery cost](https://github.com/topsycreed/yandexPracticumJava)** - delivery cost
 
 ### 📦 Utilities & Tools
 - 📧 **[Java Certificate Sender](https://github.com/topsycreed/certificateSender)** — email certificate sender tool
